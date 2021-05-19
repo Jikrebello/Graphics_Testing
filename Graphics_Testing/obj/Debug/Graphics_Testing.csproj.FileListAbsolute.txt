@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\bin\Debug\Graphics_Testing.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\bin\Debug\Graphics_Testing.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\bin\Debug\Graphics_Testing.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\obj\Debug\Graphics_Testing.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\obj\Debug\Graphics_Testing.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\obj\Debug\Graphics_Testing.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\obj\Debug\Graphics_Testing.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\obj\Debug\Graphics_Testing.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\obj\Debug\Graphics_Testing.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Graphics_Testing\obj\Debug\Graphics_Testing.pdb
